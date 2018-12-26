@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: crazykim
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Kim
+Implementation-Vendor-Id: com.crazykim.blog
+Build-Jdk: 1.8.0_91
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/crazykim
+Created-By: Maven Integration for Eclipse
+
