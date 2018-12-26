@@ -1,0 +1,2 @@
+# crazykim
+blog create practice
